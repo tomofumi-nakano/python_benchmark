@@ -1,0 +1,2 @@
+test:
+	python bench.py
