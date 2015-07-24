@@ -1,8 +1,17 @@
 # python_benchmark
 
-* install
+* 準備
+ ```
+ make prepare
+ ```
 
+* テスト
+ ```
+ make test
+ ```
 
-```
-pip install cdecimal --allow-external cdecimal
-```
+* 実行
+ ```
+ make all
+ ```
+ allは省略可能
